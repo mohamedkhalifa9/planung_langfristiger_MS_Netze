@@ -1,4 +1,4 @@
-# Grid Expansion Algorithmus – refaktorisierte Version
+# Grid Expansion Algorithmus
 
 ## Projektkontext
 

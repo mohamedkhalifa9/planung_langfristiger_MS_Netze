@@ -4,7 +4,7 @@
 
 Dieser Code entstand im Rahmen einer **Gruppenarbeit** an der Universität im Projekt bzw. der Lehrveranstaltung **„Planung langfristig optimaler Mittelspannungsnetze“**. Ausgangspunkt war die **Implementierungsphase** aus dem Kursmaterial (vgl. `grid_expansion.ipynb` im Projekt „Project Netz“): dort wird die Aufgabenstellung für den Netzausbau des fiktiven MS-Netzes „Bielefeld“ beschrieben.
 
-## Aufgabenstellung (inhaltlich aus dem Kursnotebook, sprachlich neu gefasst)
+## Aufgabenstellung 
 
 Im Szenario sind Sie **Verteilnetzbetreiber** eines fiktiven Mittelspannungsnetzes („Bielefeld“). Mit der **Energiewende** steigen u. a. der Anteil von **Elektromobilität**, **Wärmepumpen** und **Photovoltaik** – das Netz repräsentiert bereits ein **Zukunftsszenario** (Datei `mv_grid_bielefeld.json`). Ihre Aufgabe ist, ein **Werkzeug** zu entwickeln, mit dem der **Netzausbau** so geplant werden kann, dass das System **künftig unter N-1-Bedingungen** weiter betrieben werden kann und die **Investitionskosten** der Maßnahmen **möglichst günstig** ausfallen.
 

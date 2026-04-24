@@ -47,7 +47,6 @@ newAlgorithm/
 ### Ausführung
 
 ```bash
-cd Bielefeld/newAlgorithm
 python main.py
 ```
 

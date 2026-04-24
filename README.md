@@ -62,14 +62,6 @@ Die Ergebnisse werden im übergeordneten Verzeichnis gespeichert:
 - `mv_grid_bielefeld_optimized.json` - Optimiertes Netzwerk
 - `mv_grid_bielefeld_optimized_visualization.html` - Visualisierung
 
-## Unterschiede zur Original-Version
-
-- ✅ Modularer Aufbau (10 Module statt 1 große Datei)
-- ✅ Eliminierte Code-Duplikation
-- ✅ Bessere Nutzung von pandapower-Funktionen
-- ✅ Zentrale Konfiguration
-- ✅ Verbesserte Wartbarkeit
-- ✅ Blindleistungssteuerung nach VDE-AR-N 4105
 
 ## Blindleistungssteuerung (VDE-AR-N 4105)
 

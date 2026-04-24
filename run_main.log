@@ -1,0 +1,40 @@
+Matplotlib is building the font cache; this may take a moment.
+================================================================================
+GRID EXPANSION ALGORITHMUS (Refactored)
+================================================================================
+
+Lade Netzwerk aus /Users/khalifa/Downloads/Bielefeld-main/mv_grid_bielefeld.json...
+✓ Netzwerk geladen: 95 Busse, 99 Leitungen
+Lade Lastfälle...
+N1 aus Lastfällen entfernt (wird anders behandelt)
+✓ Verfügbare Lastfälle: ['bc', 'hL', 'hW', 'hPV', 'lW', 'lPV']
+
+→ Berechne initialen Lastfluss für Blindleistungssteuerung...
+✓ Initialer Lastfluss berechnet (Lastfall: bc)
+
+================================================================================
+BLINDLEISTUNGSSTEUERUNG (VOR ITERATIONEN)
+================================================================================
+→ Wende Blindleistungssteuerung an (vor allen Iterationen)...
+
+✓ Blindleistung für 102 sgen-Elemente gesetzt:
+  sgen 0 (Bus 2, V=1.013 pu, P=2.00 MW): Q = 0.00 → 0.00 MVar [-0.66, 0.66]
+  sgen 1 (Bus 4, V=1.014 pu, P=0.16 MW): Q = 0.00 → 0.00 MVar [-0.05, 0.05]
+  sgen 2 (Bus 5, V=1.014 pu, P=0.16 MW): Q = 0.00 → 0.00 MVar [-0.05, 0.05]
+  sgen 3 (Bus 6, V=1.015 pu, P=0.16 MW): Q = 0.00 → 0.00 MVar [-0.05, 0.05]
+  sgen 4 (Bus 7, V=1.007 pu, P=0.16 MW): Q = 0.00 → 0.00 MVar [-0.05, 0.05]
+  ... und 97 weitere sgen-Elemente
+
+✓ INITIALE BLINDLEISTUNGSSTEUERUNG AUSGEFÜHRT:
+  - 102 sgen-Elemente angepasst
+  ✓ Keine Spannungsverletzungen mehr vorhanden
+Lade Equipment-Kosten aus /Users/khalifa/Downloads/Bielefeld-main/Equipment_Cost.xlsx...
+✓ Kosten geladen: 33 Leitungstypen, 6 Transformator-Typen
+Ausfallkandidaten: 99 Leitungen
+
+================================================================================
+ITERATION 1
+================================================================================
+
+Verwende 10 CPU-Kerne für Parallelisierung
+Berechne 594 Ausfallszenarien parallel...
